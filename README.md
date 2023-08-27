@@ -1,6 +1,6 @@
 # w3p3-decorate-html
 
-1. Buatlah sebuah file HTML bernama _index.html_ di sebuah folder bernama _project-css-styling_. Gunakan kode yang sudah disiapkan berikut:
+1. Buatlah sebuah file HTML bernama _index.html_ . Gunakan kode yang sudah disiapkan berikut:
 
     ``` HTML
     <html>
