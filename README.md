@@ -134,7 +134,7 @@
 
     CSS telah siap digunakan. Sekarang kamu harus menambahkan classatau idpada HTML element untuk memberikan desain kepada halaman HTML kita. Hasil akhir dari HTML yang dibuat harus tampil seperti berikut:
 
-    ![Contoh Hasil Akhir CSS Styling](./images/contoh-css-styling.gif "Contoh Hasil Akhir CSS Styling")
+    ![Contoh Hasil Akhir CSS Styling](./contoh-css-styling.gif "Contoh Hasil Akhir CSS Styling")
 
     **Syntax Penting**
 
