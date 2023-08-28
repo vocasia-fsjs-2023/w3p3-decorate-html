@@ -1,4 +1,4 @@
-# w3p3-decorate-html
+# w4p3-decorate-html
 
 1. Buatlah sebuah file HTML bernama _index.html_ . Gunakan kode yang sudah disiapkan berikut:
 
