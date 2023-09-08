@@ -140,3 +140,6 @@
 
     - class
     - id
+# Jawab 
+![Alt text](jawaban1dan2.png)
+![Alt text](jawaban3.png)
